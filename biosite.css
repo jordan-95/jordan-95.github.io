@@ -1,1 +1,12 @@
-"biosite" 
+html, body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color: rgb(0, 4, 226);
+    font-weight: bold;
+    background-color: #2be207;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    text-align: center;
+}
+
